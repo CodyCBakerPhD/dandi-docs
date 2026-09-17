@@ -8,6 +8,10 @@ An example formatted citation can also be found on the Dandiset's landing page a
 uses the DataCite citation style, which is a widely accepted standard for citing datasets, but you may need to adapt it
 to the citation style required by the journal you are submitting to.
 
+**If your work uses data spanning multiple datasets or archives (for example, a BICAN project with companion datasets on
+other archives, such as [Dandiset 001893](https://dandiarchive.org/dandiset/001893)), cite each dataset in each archive
+individually, so that credit and provenance are tracked across all of them.**
+
 **If the Dandiset has an associated publication, it may also be appropriate to cite the publication, but this does not
 replace the need to cite the Dandiset itself.**
 
