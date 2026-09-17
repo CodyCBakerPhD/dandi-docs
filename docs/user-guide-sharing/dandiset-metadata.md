@@ -83,5 +83,5 @@ Some common relations include:
 * For a publication or preprint that is the primary account of the data being deposited, use "dcite:isDescribedBy".
 * For a data descriptor paper, e.g. as is common in the journal Scientific Data, use "dcite:IsDocumentedBy".
 * To associate a new paper that analyzes the data in this Dandiset, use "dcite:IsCitedBy".
-* For a companion dataset from the same project deposited in another archive (as done across archives for the BICAN
-  datasets), use "dcite:IsPartOf" when this Dandiset is one component of that larger collection.
+* For a companion dataset from the same project deposited in another archive, e.g. the cross-archive BICAN datasets,
+  use "dcite:IsSupplementTo" so that the two deposits are discoverable and creditable from each other.
